@@ -9,5 +9,11 @@ More on UCB here: https://www.geeksforgeeks.org/upper-confidence-bound-algorithm
 3) Run: sudo python upper_confidence_bound.py 
 
 ## Ads Histogram for current Data
-Clearly Ad: 2 is the winner and should have higher budget allocation.
+Clearly Ad: 4 is the winner and should have higher budget allocation.
+
 ![index](https://user-images.githubusercontent.com/54019001/184544892-1680de0c-e6d8-4326-9fb2-7478612bb249.png)
+
+## Prerequisits
+Python 3.6
+Machine learning libraries(Pandas-Numpy)
+Anaconda/Spyder
