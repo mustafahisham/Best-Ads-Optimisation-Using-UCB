@@ -17,6 +17,6 @@ Clearly Ad: 4 is the winner and should have higher budget allocation.
 ![index](https://user-images.githubusercontent.com/54019001/184544892-1680de0c-e6d8-4326-9fb2-7478612bb249.png)
 
 ## Prerequisits
-Python 3.6
-Machine learning libraries(Pandas-Numpy)
-Anaconda/Spyder
+1) Python 3.6
+2) Machine learning libraries(Pandas-Numpy)
+3) Anaconda/Spyder
