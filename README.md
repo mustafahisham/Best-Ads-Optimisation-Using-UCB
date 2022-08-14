@@ -8,6 +8,9 @@ More on UCB here: https://www.geeksforgeeks.org/upper-confidence-bound-algorithm
 2) Replace the data in Ads_CTR_Optimisation.csv with current ads data.
 3) Run: sudo python upper_confidence_bound.py 
 
+## Data
+Folder contains the Ads_CTR_Optimisation.csv file with Ads Impressions
+
 ## Ads Histogram for current Data
 Clearly Ad: 4 is the winner and should have higher budget allocation.
 
